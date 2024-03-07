@@ -1,5 +1,5 @@
 
-
+contiue reading after logo ------> :)
 ![logonav](https://github.com/Vince-mel/Capstone-backend/assets/137229406/8dcb73b5-8420-4c54-969f-1b1b92e342b6)
 
 
@@ -7,7 +7,7 @@
 
 
 
-                                                                                             WAYSTONE BACKEND SERVER
+                               WAYSTONE BACKEND SERVER
 
 
 The waystone backend server is an efficient component of waystone application that you can find here -> https://github.com/iam-Igor/food2you](https://github.com/Vince-mel/Capstone-frontend, responsible for handling various backend functionalities, including user authentication, order processing, and communication with external APIs.
